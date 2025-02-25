@@ -13,7 +13,7 @@ This repository hosts a FastAPI-based AI Voice Assistant capable of processing v
 ## 📂 Project Structure
 ```
 ├── Dockerfile
-├── app.py
+├── main.py
 ├── .env
 ├── requirements.txt
 └── README.md
