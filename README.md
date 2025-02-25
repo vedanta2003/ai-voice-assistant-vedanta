@@ -62,10 +62,6 @@ curl -X POST http://localhost:8000/recognize-intent \
 -H "Content-Type: application/json" \
 -d '{"text": "What’s the weather like today?"}'
 ```
-
-## 🏁 Deployment
-Deploy to a cloud provider (AWS, GCP, Azure) with Docker or Kubernetes. Let me know if you’d like help setting that up! 🚀
-
 ---
 
 ### 🧑‍💻 Author
