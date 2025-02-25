@@ -67,5 +67,5 @@ curl -X POST http://localhost:8000/recognize-intent \
 ### 🧑‍💻 Author
 **Vedanta Yadav**
 
-Happy coding! 💡 Let me know if you want to add more sections or refine anything! 🚀
+Happy coding! 💡 
 
