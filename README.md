@@ -23,7 +23,7 @@ This repository hosts a FastAPI-based AI Voice Assistant capable of processing v
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/ai-voice-assistant.git
+git clone https://github.com/vedanta2003/ai-voice-assistant-vedanta.git
 cd ai-voice-assistant
 ```
 
